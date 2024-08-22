@@ -25,19 +25,26 @@ A simple command-line application to manage recipes. The Recipe Manager allows y
 
    ```bash
    git clone https://github.com/TamsinLloyd99/Python-recipe-manager.git
+   ```
 
 2. **Navigate to the Project Directory**
  
-  cd Python_recipe_manager
-  Ensure You Have Python 3.x Installed
+ ```bash
+ cd Python_recipe_manager
+ ```
+
+Ensure You Have Python 3.x Installed
 
 This project is compatible with Python 3.x. Install Python from the official website if necessary.
 
 ## Usage
+
 1. **Run the Script**
 
 Execute the Recipe Manager script using Python:
+```bash
 python recipe_manager.py
+```
 
 2. **Command-Line Interface**
 
@@ -50,7 +57,6 @@ Edit Recipe: Update an existing recipe’s details.
 Delete Recipe: Remove a recipe by its title.
 
 ## Credits
-Your Name: GitHub Profile
 Special thanks to the Python community and various online resources that provided guidance and inspiration.
 
 ## License
