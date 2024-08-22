@@ -21,9 +21,9 @@ A simple command-line application to manage recipes. The Recipe Manager allows y
 
 1. **Clone the Repository**
 
-   Open a terminal and clone the repository to your local machine:
+Open a terminal and clone the repository to your local machine:
 
-   ```bash
+```bash
    git clone https://github.com/TamsinLloyd99/Python-recipe-manager.git
    ```
 
