@@ -49,9 +49,9 @@ Search Recipes: Search by title or ingredient.
 Edit Recipe: Update an existing recipe’s details.
 Delete Recipe: Remove a recipe by its title.
 
-##Credits
+## Credits
 Your Name: GitHub Profile
 Special thanks to the Python community and various online resources that provided guidance and inspiration.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
